@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+.top-continer{
+    width: 200px;
+    height: 200px;
+    background-color: #E4F9F5;
+    border: 10px solid;
+    padding: 20px;
+}
+
+.middle-continer{
+
+    width: 200px;
+    height: 200px;
+    background-color: red;
+
+    border: 20px solid;
+    margin-left: 260px;
+
+}
+
+.buttom-continer{
+
+    
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin-left: 500px;
+    border: 10px solid;
+
+}
